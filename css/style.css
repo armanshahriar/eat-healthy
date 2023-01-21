@@ -1,16 +1,21 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .left {
     width: 45%;
-    display: inline;
-    float: left;
 }
 
 .right {
     width: 55%;
-    display: inline-block;
-    float: right;
+}
+.skip{
+    color: #ED9147;
+}
+.the{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 78px;
 }
